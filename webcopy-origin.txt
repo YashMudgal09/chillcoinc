@@ -186,7 +186,7 @@ Uri: https://cdn.prod.website-files.com/642422d00e42732262f7201b/6454e4fa5059c97
 File Name: C:\Downloaded Web Sites\www.chillcoinc.com\642422d00e42732262f7201b\6454e4fa5059c9754395971e_vykon-1.png
 Content Type: image/png
 
-Uri: https://cdn.prod.website-files.com/642422d00e42732262f7201b/ChillcoLogo.jpg
+Uri: https://cdn.prod.website-files.com/642422d00e42732262f7201b/ChillcoLogo.png
 File Name: C:\Downloaded Web Sites\www.chillcoinc.com\642422d00e42732262f7201b\645a33b288a80f0f3a48e416_logo-white-bg-1.jpg
 Content Type: image/jpeg
 
@@ -1022,7 +1022,7 @@ Uri: https://cdn.prod.website-files.com/642422d10e427318e4f72044/6478371c99eca63
 File Name: C:\Downloaded Web Sites\www.chillcoinc.com\642422d10e427318e4f72044\6478371c99eca638acfddecc_installation-1.jpeg
 Content Type: image/jpeg
 
-Uri: https://cdn.prod.website-files.com/642422d10e427318e4f72044/ChillcoLogo.jpg
+Uri: https://cdn.prod.website-files.com/642422d10e427318e4f72044/ChillcoLogo.png
 File Name: C:\Downloaded Web Sites\www.chillcoinc.com\642422d10e427318e4f72044\64b61e93f4775a8c6ae1882c_642d37ab9450cf3270eb7c0d_642d246a11e38ea9ed697d82_logo-white-text-1.png
 Content Type: image/png
 
